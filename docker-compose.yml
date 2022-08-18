@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+    web:
+        image: "popbobkok5019/se331-lab06-v2:latest"
+        ports:
+            - 8001:80
