@@ -28,7 +28,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: popbobkok/lab06:latest
+          tags: popbobkok5019/se331-lab06-v2:latest
       -
         name: docker compose
         uses: alex-ac/github-action-ssh-docker-compose@master
